@@ -30,6 +30,10 @@ export const mockStudent: Studentdata[] = [
     image: bike4,
     title: "Japanese Bike",
   },
-  
+  {
+    description: "₱4,900",
+    image: bike4,
+    title: "American Bike",
+  },
   
 ];
